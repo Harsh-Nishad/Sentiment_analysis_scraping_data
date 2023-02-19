@@ -1,7 +1,7 @@
 # Sentiment_analysis_scraping_data
 Scraping the social media data and analyzing it using per trained classifier.
 
-# Website
+# Website contains results
 [https://iit-review-sentiments.onrender.com]
 
 This repository contains code for a sentiment analysis project that involves scraping data from various websites and analyzing the sentiment of the scraped text. The project is implemented in Python using several libraries, including BeautifulSoup, Scrapy, and TextBlob.
